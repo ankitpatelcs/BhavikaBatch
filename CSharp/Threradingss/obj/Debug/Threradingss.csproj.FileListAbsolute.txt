@@ -1,0 +1,7 @@
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\Threradingss\bin\Debug\Threradingss.exe.config
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\Threradingss\bin\Debug\Threradingss.exe
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\Threradingss\bin\Debug\Threradingss.pdb
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\Threradingss\obj\Debug\Threradingss.csproj.AssemblyReference.cache
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\Threradingss\obj\Debug\Threradingss.csproj.CoreCompileInputs.cache
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\Threradingss\obj\Debug\Threradingss.exe
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\Threradingss\obj\Debug\Threradingss.pdb

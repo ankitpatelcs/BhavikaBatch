@@ -1,0 +1,7 @@
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\Dictionaryss\bin\Debug\Dictionaryss.exe.config
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\Dictionaryss\bin\Debug\Dictionaryss.exe
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\Dictionaryss\bin\Debug\Dictionaryss.pdb
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\Dictionaryss\obj\Debug\Dictionaryss.csproj.AssemblyReference.cache
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\Dictionaryss\obj\Debug\Dictionaryss.csproj.CoreCompileInputs.cache
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\Dictionaryss\obj\Debug\Dictionaryss.exe
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\Dictionaryss\obj\Debug\Dictionaryss.pdb

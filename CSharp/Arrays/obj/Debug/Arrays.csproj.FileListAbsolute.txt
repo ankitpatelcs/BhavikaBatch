@@ -1,0 +1,7 @@
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\Arrays\bin\Debug\Arrays.exe.config
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\Arrays\bin\Debug\Arrays.exe
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\Arrays\bin\Debug\Arrays.pdb
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\Arrays\obj\Debug\Arrays.exe
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\Arrays\obj\Debug\Arrays.pdb

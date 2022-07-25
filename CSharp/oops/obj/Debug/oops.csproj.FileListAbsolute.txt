@@ -1,0 +1,7 @@
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\oops\bin\Debug\oops.exe.config
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\oops\bin\Debug\oops.exe
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\oops\bin\Debug\oops.pdb
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\oops\obj\Debug\oops.csproj.AssemblyReference.cache
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\oops\obj\Debug\oops.csproj.CoreCompileInputs.cache
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\oops\obj\Debug\oops.exe
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\oops\obj\Debug\oops.pdb

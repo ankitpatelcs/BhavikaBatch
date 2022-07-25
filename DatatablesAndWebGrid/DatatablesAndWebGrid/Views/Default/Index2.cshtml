@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewBag.Title = "Index2";
+    var grid = new WebGridMvc.WebGrid<DatatablesAndWebGrid.EDM.tblemployee>(Model,canSort:true,canPage:true,rowsPerPage:5);
+}
+
+<h2>Web Grid</h2>
+
+@grid.GetHtml(tableStyle:"table",columns: new[] { 
+    grid.Column("emp_id","Employee ID"),
+    grid.Column("f_name","First Name"),
+    grid.Column("salary","Salary"),
+    grid.Column("email","Email"),
+    grid.Column("gender","Gender")
+})

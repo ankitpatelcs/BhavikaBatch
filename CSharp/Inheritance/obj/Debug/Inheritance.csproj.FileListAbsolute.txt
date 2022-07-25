@@ -1,0 +1,7 @@
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\Inheritance\bin\Debug\Inheritance.exe
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\Inheritance\bin\Debug\Inheritance.pdb
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\Inheritance\obj\Debug\Inheritance.exe
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\Inheritance\obj\Debug\Inheritance.pdb

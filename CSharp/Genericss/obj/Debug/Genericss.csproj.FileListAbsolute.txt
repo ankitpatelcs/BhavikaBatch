@@ -1,0 +1,7 @@
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\Genericss\bin\Debug\Genericss.exe.config
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\Genericss\bin\Debug\Genericss.exe
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\Genericss\bin\Debug\Genericss.pdb
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\Genericss\obj\Debug\Genericss.csproj.CoreCompileInputs.cache
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\Genericss\obj\Debug\Genericss.exe
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\Genericss\obj\Debug\Genericss.pdb
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\Genericss\obj\Debug\Genericss.csproj.AssemblyReference.cache

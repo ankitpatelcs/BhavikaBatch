@@ -1,0 +1,7 @@
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\EmployeeList\bin\Debug\EmployeeList.exe.config
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\EmployeeList\bin\Debug\EmployeeList.exe
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\EmployeeList\bin\Debug\EmployeeList.pdb
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\EmployeeList\obj\Debug\EmployeeList.csproj.AssemblyReference.cache
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\EmployeeList\obj\Debug\EmployeeList.csproj.CoreCompileInputs.cache
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\EmployeeList\obj\Debug\EmployeeList.exe
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\EmployeeList\obj\Debug\EmployeeList.pdb

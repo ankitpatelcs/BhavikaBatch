@@ -1,0 +1,6 @@
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\partialclass\bin\Debug\partialclass.exe.config
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\partialclass\bin\Debug\partialclass.exe
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\partialclass\bin\Debug\partialclass.pdb
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\partialclass\obj\Debug\partialclass.csproj.CoreCompileInputs.cache
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\partialclass\obj\Debug\partialclass.exe
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\partialclass\obj\Debug\partialclass.pdb

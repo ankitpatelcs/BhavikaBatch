@@ -1,0 +1,6 @@
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\EmployeeService\bin\Debug\EmployeeService.dll
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\EmployeeService\bin\Debug\EmployeeService.pdb
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\EmployeeService\obj\Debug\EmployeeService.csproj.AssemblyReference.cache
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\EmployeeService\obj\Debug\EmployeeService.csproj.CoreCompileInputs.cache
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\EmployeeService\obj\Debug\EmployeeService.dll
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\EmployeeService\obj\Debug\EmployeeService.pdb

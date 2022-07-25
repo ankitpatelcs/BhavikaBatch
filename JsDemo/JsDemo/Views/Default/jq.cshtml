@@ -1,0 +1,24 @@
+﻿
+@{
+    ViewBag.Title = "jq";
+}
+<script src="~/Scripts/jquery-3.4.1.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $("#btn1").click(function () {
+            $("#txt").slideUp();
+        });
+        $("#btn2").click(function () {
+            $("#txt").slideDown();
+        });
+    });
+</script>
+
+<h2>jq</h2>
+<input type="button" id="btn1" value="Hide" />
+<input type="button" id="btn2" value="Show" />
+<p style="width:350px" id="txt">
+    jQuery UI is built for designers and developers alike. We've designed all of our plugins to get you up and running quickly while being flexible enough to evolve with your needs and solve a plethora of use cases. If you're new to jQuery UI, check out our getting started guide and other tutorials. Play around with the demos and read through the API documentation to get an idea of what's possible.
+    
+</p>
+

@@ -1,0 +1,11 @@
+﻿@model IEnumerable<FormCollectionDemo.EDM.tblemployee>
+
+@{
+    ViewBag.Title = "PartialPage";
+}
+
+<h2>PartialPage</h2>
+
+@Html.Partial("PView")
+@Html.Partial("PView")
+@Html.Partial("EmpPview",Model)

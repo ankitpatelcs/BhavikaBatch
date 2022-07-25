@@ -1,0 +1,34 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    var emplist = ViewBag.empdata as List<FormCollectionDemo.EDM.tblemployee>;
+}
+
+<h2>Index</h2>
+<br />
+<p>
+    <a href="/Default/Create">Create New</a>
+</p>
+
+<table class="table">
+    <tr>
+        <th>Employee ID</th>
+        <th>First Name</th>
+        <th>Salary</th>
+        <th>Mobile</th>
+        <th>Email</th>
+        <th>Gender</th>
+    </tr>
+    @foreach (var item in emplist)
+    {
+        <tr>
+            <td>@item.emp_id</td>
+            <td>@item.f_name</td>
+            <td>@item.salary</td>
+            <td>@item.mobile</td>
+            <td>@item.email</td>
+            <td>@item.gender</td>
+            <td><a href="/Default/Edit/@item.emp_id">Edit</a> | <a href="/Default/Delete/@item.emp_id">Delete</a></td>
+        </tr>
+    }
+</table>

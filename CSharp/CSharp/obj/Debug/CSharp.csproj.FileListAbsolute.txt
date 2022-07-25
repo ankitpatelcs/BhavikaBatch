@@ -1,0 +1,7 @@
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\CSharp\bin\Debug\CSharp.exe.config
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\CSharp\bin\Debug\CSharp.exe
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\CSharp\bin\Debug\CSharp.pdb
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\CSharp\obj\Debug\CSharp.csproj.AssemblyReference.cache
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\CSharp\obj\Debug\CSharp.csproj.CoreCompileInputs.cache
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\CSharp\obj\Debug\CSharp.exe
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\CSharp\obj\Debug\CSharp.pdb

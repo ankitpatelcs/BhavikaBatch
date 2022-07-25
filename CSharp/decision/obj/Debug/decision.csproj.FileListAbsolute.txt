@@ -1,0 +1,7 @@
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\decision\bin\Debug\decision.exe.config
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\decision\bin\Debug\decision.exe
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\decision\bin\Debug\decision.pdb
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\decision\obj\Debug\decision.csproj.AssemblyReference.cache
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\decision\obj\Debug\decision.csproj.CoreCompileInputs.cache
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\decision\obj\Debug\decision.exe
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\decision\obj\Debug\decision.pdb

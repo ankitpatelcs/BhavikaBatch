@@ -1,0 +1,7 @@
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\overloadings\bin\Debug\overloadings.exe.config
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\overloadings\bin\Debug\overloadings.exe
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\overloadings\bin\Debug\overloadings.pdb
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\overloadings\obj\Debug\overloadings.csproj.AssemblyReference.cache
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\overloadings\obj\Debug\overloadings.csproj.CoreCompileInputs.cache
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\overloadings\obj\Debug\overloadings.exe
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\overloadings\obj\Debug\overloadings.pdb

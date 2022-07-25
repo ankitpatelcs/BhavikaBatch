@@ -1,0 +1,7 @@
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\ExceptionHandeling\bin\Debug\ExceptionHandeling.exe.config
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\ExceptionHandeling\bin\Debug\ExceptionHandeling.exe
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\ExceptionHandeling\bin\Debug\ExceptionHandeling.pdb
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\ExceptionHandeling\obj\Debug\ExceptionHandeling.csproj.AssemblyReference.cache
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\ExceptionHandeling\obj\Debug\ExceptionHandeling.csproj.CoreCompileInputs.cache
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\ExceptionHandeling\obj\Debug\ExceptionHandeling.exe
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\ExceptionHandeling\obj\Debug\ExceptionHandeling.pdb

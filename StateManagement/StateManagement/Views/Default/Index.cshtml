@@ -1,0 +1,38 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    var username = Request.Cookies["uname"] == null ? "" : Request.Cookies["uname"].Value;
+    var password = Request.Cookies["password"] == null ? "" : Request.Cookies["password"].Value;
+
+}
+
+<script>
+    function getCookies() {
+        var uname = document.getElementById("txtuname").value;
+        if (uname=="@username") {
+            document.getElementById("txtpassword").value = "@password";
+        }
+    }
+</script>
+
+<h2>Index</h2>
+
+<div class="container">
+    @using (Html.BeginForm())
+    {
+        <div class="form-horizontal">
+            <div class="form-group">
+                <label class="control-label col-md-2">Username</label>
+                <input type="text" id="txtuname" name="txtuname" class="form-control" onchange="getCookies()" />
+            </div>
+            <div class="form-group">
+                <label class="control-label col-md-2">Password</label>
+                <input type="text" id="txtpassword" name="txtpassword" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label class="control-label col-md-2"></label>
+                <input type="submit" class="btn btn-info" />
+            </div>
+        </div>
+    }
+</div>

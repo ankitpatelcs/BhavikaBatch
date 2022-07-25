@@ -1,0 +1,7 @@
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\Datatypes\bin\Debug\Datatypes.exe.config
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\Datatypes\bin\Debug\Datatypes.exe
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\Datatypes\bin\Debug\Datatypes.pdb
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\Datatypes\obj\Debug\Datatypes.csproj.AssemblyReference.cache
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\Datatypes\obj\Debug\Datatypes.csproj.CoreCompileInputs.cache
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\Datatypes\obj\Debug\Datatypes.exe
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\Datatypes\obj\Debug\Datatypes.pdb

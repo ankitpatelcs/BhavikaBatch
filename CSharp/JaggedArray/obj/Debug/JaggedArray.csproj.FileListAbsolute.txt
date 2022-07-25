@@ -1,0 +1,7 @@
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\JaggedArray\bin\Debug\JaggedArray.exe.config
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\JaggedArray\bin\Debug\JaggedArray.exe
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\JaggedArray\bin\Debug\JaggedArray.pdb
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\JaggedArray\obj\Debug\JaggedArray.csproj.AssemblyReference.cache
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\JaggedArray\obj\Debug\JaggedArray.csproj.CoreCompileInputs.cache
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\JaggedArray\obj\Debug\JaggedArray.exe
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\JaggedArray\obj\Debug\JaggedArray.pdb

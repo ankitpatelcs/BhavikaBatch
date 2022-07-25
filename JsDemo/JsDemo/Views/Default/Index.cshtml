@@ -1,0 +1,14 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<script>
+    function displaytext() {
+        var txt = document.getElementById("txt").value;
+        alert(txt);
+    }
+</script>
+<h2>Index</h2>
+<input type="text" id="txt" />
+<input type="button" id="btn" value="Show" onclick="displaytext();" />

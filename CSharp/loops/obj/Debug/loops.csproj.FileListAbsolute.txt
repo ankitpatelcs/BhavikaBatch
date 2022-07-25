@@ -1,0 +1,7 @@
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\loops\bin\Debug\loops.exe.config
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\loops\bin\Debug\loops.exe
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\loops\bin\Debug\loops.pdb
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\loops\obj\Debug\loops.csproj.AssemblyReference.cache
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\loops\obj\Debug\loops.csproj.CoreCompileInputs.cache
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\loops\obj\Debug\loops.exe
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\loops\obj\Debug\loops.pdb

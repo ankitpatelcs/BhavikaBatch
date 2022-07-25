@@ -1,0 +1,7 @@
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\staticclass\bin\Debug\staticclass.exe.config
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\staticclass\bin\Debug\staticclass.exe
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\staticclass\bin\Debug\staticclass.pdb
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\staticclass\obj\Debug\staticclass.csproj.AssemblyReference.cache
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\staticclass\obj\Debug\staticclass.csproj.CoreCompileInputs.cache
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\staticclass\obj\Debug\staticclass.exe
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\staticclass\obj\Debug\staticclass.pdb

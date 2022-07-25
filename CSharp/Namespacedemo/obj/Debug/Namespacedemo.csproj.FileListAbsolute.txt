@@ -1,0 +1,10 @@
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\Namespacedemo\bin\Debug\Namespacedemo.exe.config
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\Namespacedemo\bin\Debug\Namespacedemo.exe
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\Namespacedemo\bin\Debug\Namespacedemo.pdb
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\Namespacedemo\bin\Debug\EmployeeService.dll
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\Namespacedemo\bin\Debug\EmployeeService.pdb
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\Namespacedemo\obj\Debug\Namespacedemo.csproj.AssemblyReference.cache
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\Namespacedemo\obj\Debug\Namespacedemo.csproj.CoreCompileInputs.cache
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\Namespacedemo\obj\Debug\Namespacedemo.csproj.CopyComplete
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\Namespacedemo\obj\Debug\Namespacedemo.exe
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\Namespacedemo\obj\Debug\Namespacedemo.pdb

@@ -1,0 +1,7 @@
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\stringfinctions\bin\Debug\stringfinctions.exe.config
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\stringfinctions\bin\Debug\stringfinctions.exe
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\stringfinctions\bin\Debug\stringfinctions.pdb
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\stringfinctions\obj\Debug\stringfinctions.csproj.AssemblyReference.cache
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\stringfinctions\obj\Debug\stringfinctions.csproj.CoreCompileInputs.cache
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\stringfinctions\obj\Debug\stringfinctions.exe
+C:\Ankit Patel\Lectures\ShankarBatch\CSharp\stringfinctions\obj\Debug\stringfinctions.pdb
