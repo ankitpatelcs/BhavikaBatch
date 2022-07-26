@@ -1,0 +1,46 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<script>
+    $(document).ready(function () {
+        $.ajax({
+            url: "https://restcountries.com/v2/all",
+            type: "GET",
+            dataType: "json",
+            success: function (data) {
+                $.each(data, function (key, item) {
+                    var tz = "";
+                    $.each(item.timezones, function (tkey, tzitem) {
+                        tz += tzitem + ", ";
+                    });
+                    $("#tbl").append("<tr>"
+                        + "<td>" + item.name + "</td>"
+                        + "<td>" + item.capital + "</td>"
+                        + "<td>" + item.population + "</td>"
+                        + "<td>" + item.latlng + "</td>"
+                        + "<td>" + item.currencies[0].name + "</td>"
+                        + "<td>" + tz + "</td>"
+                        + "<td><img src='" + item.flag + "' height=80 width=100 /></td>"
+                        + "</tr>");
+                });
+            }
+        });
+    });
+</script>
+
+<h2>Index</h2>
+
+<table class="table" id="tbl">
+    <tr>
+        <th>Country Name</th>
+        <th>Capital</th>
+        <th>Population</th>
+        <th>Location</th>
+        <th>currencies</th>
+        <th>Timezones</th>
+        <th>Flag</th>
+    </tr>
+
+</table>
