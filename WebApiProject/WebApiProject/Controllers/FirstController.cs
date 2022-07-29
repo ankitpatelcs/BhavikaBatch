@@ -110,5 +110,51 @@ namespace WebApiProject.Controllers
             ModelState.AddModelError(string.Empty, "Error.!");
             return View(obj);
         }
+        
+        public async Task<ActionResult> Delete(int id)
+        {
+            tblemployee empobj = null;
+
+            using (var client = new HttpClient())
+            {
+                client.BaseAddress = new Uri("https://localhost:44377/");
+
+                var responseTask = await client.GetAsync($"api/Default/{id}");
+
+                //If success received   
+                if (responseTask.IsSuccessStatusCode)
+                {
+                    var readTask = await responseTask.Content.ReadAsAsync<tblemployee>();
+                    empobj = readTask;
+                }
+                else
+                {
+                    //Error response received   
+                    empobj = null;
+                    ModelState.AddModelError(string.Empty, "Error.!");
+                }
+            }
+            return View(empobj);
+        }
+        [HttpPost]
+        [ActionName("Delete")]
+        public async Task<ActionResult> DeleteRec(int id)
+        {
+            using (var client = new HttpClient())
+            {
+                client.BaseAddress = new Uri("https://localhost:44377/");
+
+                //HTTP POST
+                var response = await client.DeleteAsync($"api/Default/{id}");
+
+                if (response.IsSuccessStatusCode)
+                {
+                    return RedirectToAction("Index");
+                }
+            }
+
+            ModelState.AddModelError(string.Empty, "Error.!");
+            return View();
+        }
     }
 }
