@@ -110,7 +110,7 @@ namespace WebApiProject.Controllers
             ModelState.AddModelError(string.Empty, "Error.!");
             return View(obj);
         }
-        
+
         public async Task<ActionResult> Delete(int id)
         {
             tblemployee empobj = null;
